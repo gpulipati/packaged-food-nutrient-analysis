@@ -1,2 +1,3 @@
 # packaged-food-nutrient-analysis
-Analyzing nutrient levels across various package food categories to explore dietary trends and identify insights for healthier dietary habits.
+
+Analyzing Nutrient Levels Across Package Food Categories to Understand Dietary Trends and Explore the Potential of a Mobile Tool for Personalized Dietary Recommendations
